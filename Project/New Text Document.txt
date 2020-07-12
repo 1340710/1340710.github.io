@@ -1,0 +1,9 @@
+<hmtl>
+    <head>
+        <meta charset="UTF-8">
+        <title>bleu ciel blanc nuage</title>
+    </head>
+    <body>
+        Hello World
+    </body>
+</html>
